@@ -1,4 +1,4 @@
-# React - unsplash API
+# React - ss Class Based Component - unsplash API
 
 This project is made to demonstrate several development tools, patterns or techniques:
 
