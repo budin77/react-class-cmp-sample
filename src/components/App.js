@@ -18,6 +18,10 @@ class App extends React.Component {
   render() {
     return (
       <div className="ui container" style={{ marginTop: '10px' }}>
+        <div className="ui message">
+          <div className="header">Usage</div>
+          <p>Type a word (i.e cars, cats, dogs, labrador) and press 'Enter'.</p>
+        </div>
         <SearchBar onSubmit={this.onSearchSubmit} />
         Found: {this.state.images.length} images
         <ImageList images={this.state.images} />
