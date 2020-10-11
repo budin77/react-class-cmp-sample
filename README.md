@@ -1,9 +1,9 @@
-# React - class based component
+# React - unsplash API
 
-This project is made to demonstrate several development tools, patterns and techniques:
+This project is made to demonstrate several development tools, patterns or techniques:
 
 - Class Based Component State
-- Communicating Between Components (child-parent, parent-child)
-- Events Handlers
-- Feach Data (axios)
+- Communication Between Components (child-parent, parent-child)
+- Event Handlers
+- Consume an API (axios client)
 - Render Lists
